@@ -1,5 +1,5 @@
 # Nobuyaki.github.io
 
 <p align="center">
-<img src="src/nobuyaki.png" width="128" height="72"/>
+<img src="src/nobuyaki.png" width="256" height="144"/>
 </p>
